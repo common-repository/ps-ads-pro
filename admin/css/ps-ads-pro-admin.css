@@ -1,0 +1,42 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+p.label {
+    font-size: 12px;
+    line-height: 1.5em;
+    padding: 0;
+    color: #666666;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+p.label label {
+    color: #333333;
+    font-size: 13px;
+    line-height: 1.5em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0 0 3px;
+    display: block;
+    vertical-align: text-bottom;
+}
+
+.ads-input-wrap input {
+    height: 27px;
+    margin: 0;
+}
+
+#ps-ads-pro-information-meta-box input[type="text"], #ps-ads-pro-information-meta-box input[type="number"], #ps-ads-pro-information-meta-box input[type="password"], #ps-ads-pro-information-meta-box input[type="email"], #ps-ads-pro-information-meta-box textarea {
+    width: 100%;
+    padding: 5px;
+    resize: none;
+    margin: 0;
+}
+
+#ps-ads-pro-scheduler-meta-box input[type="text"], #ps-ads-pro-scheduler-meta-box input[type="number"], #ps-ads-pro-scheduler-meta-box input[type="password"], #ps-ads-pro-scheduler-meta-box input[type="email"], #ps-ads-pro-scheduler-meta-box textarea {
+    width: 100%;
+    padding: 5px;
+    resize: none;
+    margin: 0;
+}
